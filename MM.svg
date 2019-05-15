@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <g class="layer">
+  <title>Layer 1</title>
+  <polygon fill="none" id="svg_6"/>
+  <polygon fill="none" id="svg_7" points="227.5,85.5 227.5,85.5 227.5,85.5 227.5,85.5 227.5,85.5 227.5,85.5 " stroke-width="5"/>
+  <polygon fill="#000000" id="svg_11" points="388.1531982421875,143.1009063720703 307.11187744140625,295.7845153808594 175.9841766357422,237.4645538330078 175.9841766357422,48.73723602294922 307.11187744140625,-9.582751750946045 388.1531982421875,143.1009063720703 " stroke="#000000" stroke-width="5" transform="rotate(90.432 282.069 143.101)"/>
+  <polygon fill="#ff0000" id="svg_13"/>
+  <polygon fill="#ff0000" id="svg_16" points="227.5,111.5 227.5,111.5 227.5,111.5 227.5,111.5 227.5,111.5 227.5,111.5 " stroke-width="5"/>
+  <text fill="#000000" font-family="serif" font-size="24" id="svg_18" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(2.58097 0 0 3.69159 -341.885 -193.626)" x="207.5" xml:space="preserve" y="93.5"/>
+  <text fill="#000000" font-family="serif" font-size="24" id="svg_19" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(14.7745 0 0 1.11301 -2729.72 -6.68334)" x="203.5" xml:space="preserve" y="80.5"/>
+  <text fill="#ff0000" font-family="serif" font-size="24" id="svg_23" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="rotate(26.4211 210.416 155.279) matrix(3.53081 0 0 4.24795 -454.452 -215.554)" x="188.321241" xml:space="preserve" y="95.5">M.</text>
+  <text fill="#ff0000" font-family="serif" font-size="24" id="svg_25" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="rotate(-25.2649 350.784 154.03) matrix(3.72533 0 0 3.99021 -757.007 -459.87)" x="297.377828" xml:space="preserve" y="162.021779">M.</text>
+  <polygon fill="#ff0000" id="svg_28" points="274.5000015843325,51.345645904541016 283.3149402068957,82.51750183105469 310.1573791503906,83.18986511230469 288.7629176855844,103.12754821777344 296.5374703788402,134.71505737304688 274.5000015843325,115.86532592773438 252.46253278982476,134.71505737304688 260.2370854830806,103.12754821777344 238.84262401827436,83.18986511230469 265.6849232610839,82.51750183105469 274.5000015843325,51.345645904541016 283.3149402068957,82.51750183105469 " stroke="#000000" stroke-width="0"/>
+ </g>
+</svg>
